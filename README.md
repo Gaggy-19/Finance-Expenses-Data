@@ -19,22 +19,36 @@ ________________________________________
 ## Process
 The steps to create and use this dashboard:
 1.	Data Collection
-  o	Gather income and expense transaction data from bank statements, receipts, or budgeting apps.
-  o	Include fields such as Date, Category, Sub-category, Payment Method, and Amount.
+   
+    o	Gather income and expense transaction data from bank statements, receipts, or budgeting apps.
+  
+    o	Include fields such as Date, Category, Sub-category, Payment Method, and Amount.
+  
 2.	Data Cleaning
-  o	Remove duplicates, fix incorrect entries, and standardize category names.
+   
+    o	Remove duplicates, fix incorrect entries, and standardize category names.
+  
 3.	Data Categorization
-  o	Assign each transaction to major categories (Living Expenses, Discretionary, Transport, etc.) and sub-categories.
+    
+    o	Assign each transaction to major categories (Living Expenses, Discretionary, Transport, etc.) and sub-categories.
+
 4.	Dashboard Development
-  o	Use a visualization tool in Excel to create KPI cards, charts, and filters (month, year).
-  o	Include visual breakdowns such as:
-    Pie chart for account spend split
-    Bar charts for category and sub-category spending
-    Income vs Expense comparison
-    Monthly net income trends
-6.	Analysis
+	
+    o	Use a visualization tool in Excel to create KPI cards, charts, and filters (month, year).
+  
+    o	Include visual breakdowns such as:
+
+ ##### Pie chart for account spend split
+  ##### Bar charts for category and sub-category spending
+  ##### Income vs Expense comparison
+  ##### Monthly net income trends
+  	
+5.	Analysis
+	
   o	Compare results across months and years.
+    
   o	Identify problem areas and opportunities for savings.
 
-
 ________________________________________
+
+## Dataset Used
