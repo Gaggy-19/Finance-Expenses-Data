@@ -1,0 +1,564 @@
+﻿Account,Date,Description,Debit,Credit,Amount,Sub-category,Category,Category Type,Month
+Checking,1/4/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Jan
+Credit,1/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Checking,1/5/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Jan
+Checking,1/5/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Jan
+Credit,1/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/8/2021,Green's,155,,-155,Groceries,Living Expenses,Expense,Jan
+Checking,1/11/2021,Elec. Co.,50,,-50,Gas/Electrics,Living Expenses,Expense,Jan
+Credit,1/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/13/2021,Fuel. Co,77,,-77,MV Fuel,Transport,Expense,Jan
+Credit,1/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/15/2021,Green's,135,,-135,Groceries,Living Expenses,Expense,Jan
+Credit,1/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/16/2021,Event Cinemas,40,,-40,Entertainment,Discretionary,Expense,Jan
+Credit,1/16/2021,Fashionistas,98,,-98,Clothes,Discretionary,Expense,Jan
+Credit,1/16/2021,Joe's Grill,52,,-52,Restaurant,Dining Out,Expense,Jan
+Credit,1/17/2021,Taxi Co.,28,,-28,Taxi,Transport,Expense,Jan
+Checking,1/18/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Jan
+Credit,1/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Checking,1/19/2021,Smile Dental,1504,,-154,Doctor,Medical,Expense,Jan
+Checking,1/19/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Jan
+Credit,1/20/2021,Sam's Gifts,45,,-45,Gifts,Discretionary,Expense,Jan
+Credit,1/20/2021,Streaming Co.,32,,-32,Entertainment,Discretionary,Expense,Jan
+Credit,1/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/21/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/22/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/22/2021,Green's,170,,-170,Groceries,Living Expenses,Expense,Jan
+Credit,1/23/2021,Pizza Pomodoro,37,,-37,Restaurant,Dining Out,Expense,Jan
+Credit,1/24/2021,Golden Arches,12,,-12,Restaurant,Dining Out,Expense,Jan
+Checking,1/25/2021,Worldvision,70,,55,Donation,Charity,Expense,Jan
+Credit,1/25/2021,Fuel. Co,63,,-63,MV Fuel,Transport,Expense,Jan
+Credit,1/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/28/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/29/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jan
+Credit,1/29/2021,Green's,162,,-162,Groceries,Living Expenses,Expense,Jan
+Credit,1/30/2021,Ted's Trainers,125,,-125,Clothes,Discretionary,Expense,Jan
+Credit,1/30/2021,Ticketek,175,,-175,Entertainment,Discretionary,Expense,Jan
+Credit,1/31/2021,Fashionistas,145,,-145,Clothes,Discretionary,Expense,Jan
+Credit,1/31/2021,Taxi Co.,23,,-23,Taxi,Transport,Expense,Jan
+Checking,2/1/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Feb
+Credit,2/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Checking,2/2/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Feb
+Checking,2/2/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Feb
+Credit,2/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/5/2021,Green's,205,,-205,Groceries,Living Expenses,Expense,Feb
+Checking,2/8/2021,Elec. Co.,51.1,,-51.1,Gas/Electrics,Living Expenses,Expense,Feb
+Credit,2/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/9/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/10/2021,Fuel. Co,78,,-78,MV Fuel,Transport,Expense,Feb
+Credit,2/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/12/2021,Green's,135.9,,-135.9,Groceries,Living Expenses,Expense,Feb
+Credit,2/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/13/2021,Event Cinemas,40.9,,-40.9,Entertainment,Discretionary,Expense,Feb
+Credit,2/13/2021,Fashionistas,99,,-99,Clothes,Discretionary,Expense,Feb
+Credit,2/13/2021,Joe's Grill,53,,-53,Restaurant,Dining Out,Expense,Feb
+Credit,2/14/2021,Taxi Co.,28.9,,-28.9,Taxi,Transport,Expense,Feb
+Checking,2/15/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Feb
+Credit,2/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Checking,2/16/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Feb
+Credit,2/17/2021,Sam's Gifts,45.9,,-45.9,Gifts,Discretionary,Expense,Feb
+Credit,2/17/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Feb
+Credit,2/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/19/2021,Green's,171,,-171,Groceries,Living Expenses,Expense,Feb
+Credit,2/20/2021,Pizza Pomodoro,37.9,,-37.9,Restaurant,Dining Out,Expense,Feb
+Credit,2/21/2021,Golden Arches,12.9,,-12.9,Restaurant,Dining Out,Expense,Feb
+Checking,2/22/2021,Worldvision,55,,-55,Donation,Charity,Expense,Feb
+Credit,2/22/2021,Fuel. Co,64.1,,-64.1,MV Fuel,Transport,Expense,Feb
+Credit,2/22/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/23/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Feb
+Credit,2/26/2021,Green's,162.9,,-162.9,Groceries,Living Expenses,Expense,Feb
+Credit,2/27/2021,Ted's Trainers,125.9,,-125.9,Clothes,Discretionary,Expense,Feb
+Credit,2/27/2021,Global Fashion,137,,-137,Clothes,Discretionary,Expense,Feb
+Credit,2/28/2021,Fashionistas,146.1,,-146.1,Clothes,Discretionary,Expense,Feb
+Credit,2/28/2021,Taxi Co.,24.1,,-24.1,Taxi,Transport,Expense,Feb
+Checking,3/1/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Mar
+Credit,3/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Checking,3/2/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Mar
+Checking,3/2/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Mar
+Credit,3/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/5/2021,Green's,149,,-149,Groceries,Living Expenses,Expense,Mar
+Checking,3/8/2021,Elec. Co.,52.1,,-52.1,Gas/Electrics,Living Expenses,Expense,Mar
+Credit,3/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/9/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/10/2021,Fuel. Co,78.9,,-78.9,MV Fuel,Transport,Expense,Mar
+Credit,3/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/12/2021,Green's,137,,-137,Groceries,Living Expenses,Expense,Mar
+Credit,3/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/13/2021,Event Cinemas,41.8,,-41.8,Entertainment,Discretionary,Expense,Mar
+Credit,3/13/2021,Fashionistas,99.9,,-99.9,Clothes,Discretionary,Expense,Mar
+Credit,3/13/2021,Joe's Grill,54,,-54,Restaurant,Dining Out,Expense,Mar
+Credit,3/14/2021,Taxi Co.,30,,-30,Taxi,Transport,Expense,Mar
+Checking,3/15/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Mar
+Credit,3/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Checking,3/16/2021,Village Medical,75,,-75,Doctor,Medical,Expense,Mar
+Checking,3/16/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Mar
+Credit,3/17/2021,Sam's Gifts,46.8,,-46.8,Gifts,Discretionary,Expense,Mar
+Credit,3/17/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Mar
+Credit,3/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/19/2021,Green's,171.9,,-171.9,Groceries,Living Expenses,Expense,Mar
+Credit,3/20/2021,Pizza Pomodoro,39,,-39,Restaurant,Dining Out,Expense,Mar
+Credit,3/21/2021,Golden Arches,14,,-14,Restaurant,Dining Out,Expense,Mar
+Checking,3/22/2021,Worldvision,55,,-55,Donation,Charity,Expense,Mar
+Credit,3/22/2021,Fuel. Co,65,,-65,MV Fuel,Transport,Expense,Mar
+Credit,3/22/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/23/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/26/2021,Green's,209,,-209,Groceries,Living Expenses,Expense,Mar
+Credit,3/27/2021,Ted's Trainers,127,,-127,Clothes,Discretionary,Expense,Mar
+Credit,3/27/2021,Sports Co.,177.2,,-177.2,Clothes,Discretionary,Expense,Mar
+Credit,3/28/2021,Fashionistas,147.1,,-147.1,Clothes,Discretionary,Expense,Mar
+Credit,3/28/2021,Taxi Co.,25,,-25,Taxi,Transport,Expense,Mar
+Credit,3/29/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Mar
+Credit,3/30/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Credit,3/31/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Mar
+Checking,4/1/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Apr
+Credit,4/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Checking,4/2/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Apr
+Checking,4/2/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Apr
+Credit,4/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/5/2021,Green's,158.2,,-158.2,Groceries,Living Expenses,Expense,Apr
+Checking,4/8/2021,Elec. Co.,53.2,,-53.2,Gas/Electrics,Living Expenses,Expense,Apr
+Credit,4/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/9/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/10/2021,Fuel. Co,79.9,,-79.9,MV Fuel,Transport,Expense,Apr
+Credit,4/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/12/2021,Green's,98,,-98,Groceries,Living Expenses,Expense,Apr
+Credit,4/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/13/2021,Event Cinemas,42.8,,-42.8,Entertainment,Discretionary,Expense,Apr
+Credit,4/13/2021,Fashionistas,100.9,,-100.9,Clothes,Discretionary,Expense,Apr
+Credit,4/13/2021,Joe's Grill,54.9,,-54.9,Restaurant,Dining Out,Expense,Apr
+Credit,4/14/2021,Taxi Co.,31,,-31,Taxi,Transport,Expense,Apr
+Checking,4/15/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Apr
+Credit,4/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Checking,4/16/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Apr
+Credit,4/17/2021,Sam's Gifts,47.9,,-47.9,Gifts,Discretionary,Expense,Apr
+Credit,4/17/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Apr
+Credit,4/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/19/2021,Green's,173,,-173,Groceries,Living Expenses,Expense,Apr
+Credit,4/20/2021,Pizza Pomodoro,40.1,,-40.1,Restaurant,Dining Out,Expense,Apr
+Credit,4/21/2021,Golden Arches,15.1,,-15.1,Restaurant,Dining Out,Expense,Apr
+Checking,4/22/2021,Worldvision,55,,-55,Donation,Charity,Expense,Apr
+Credit,4/22/2021,Fuel. Co,66,,-66,MV Fuel,Transport,Expense,Apr
+Credit,4/22/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/23/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/26/2021,Green's,164.9,,-164.9,Groceries,Living Expenses,Expense,Apr
+Credit,4/27/2021,Ted's Trainers,127.9,,-127.9,Clothes,Discretionary,Expense,Apr
+Credit,4/27/2021,BW Club,300,,-300,Entertainment,Discretionary,Expense,Apr
+Credit,4/28/2021,Fashionistas,148.1,,-148.1,Clothes,Discretionary,Expense,Apr
+Credit,4/28/2021,Taxi Co.,26.1,,-26.1,Taxi,Transport,Expense,Apr
+Credit,4/29/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Apr
+Credit,4/29/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,4/30/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Apr
+Credit,5/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Checking,5/3/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,May
+Checking,5/3/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,May
+Checking,5/3/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,May
+Credit,5/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/6/2021,Green's,170,,-170,Groceries,Living Expenses,Expense,May
+Checking,5/9/2021,Elec. Co.,54.1,,-54.1,Gas/Electrics,Living Expenses,Expense,May
+Credit,5/9/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/11/2021,Fuel. Co,81,,-81,MV Fuel,Transport,Expense,May
+Credit,5/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/13/2021,Green's,139.1,,-139.1,Groceries,Living Expenses,Expense,May
+Credit,5/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/14/2021,Event Cinemas,43.9,,-43.9,Entertainment,Discretionary,Expense,May
+Credit,5/14/2021,Fashionistas,101.80000000000001,,-101.8,Clothes,Discretionary,Expense,May
+Credit,5/14/2021,Joe's Grill,55.9,,-55.9,Restaurant,Dining Out,Expense,May
+Credit,5/15/2021,Taxi Co.,32,,-32,Taxi,Transport,Expense,May
+Checking,5/16/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,May
+Credit,5/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Checking,5/17/2021,Village Medical,75,,-75,Doctor,Medical,Expense,May
+Checking,5/17/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,May
+Credit,5/18/2021,Sam's Gifts,49,,-49,Gifts,Discretionary,Expense,May
+Credit,5/18/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,May
+Credit,5/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/20/2021,Green's,174,,-174,Groceries,Living Expenses,Expense,May
+Credit,5/21/2021,Pizza Pomodoro,41.1,,-41.1,Restaurant,Dining Out,Expense,May
+Credit,5/22/2021,Golden Arches,16.2,,-16.2,Restaurant,Dining Out,Expense,May
+Checking,5/23/2021,Worldvision,55,,-55,Donation,Charity,Expense,May
+Credit,5/23/2021,Fuel. Co,67,,-67,MV Fuel,Transport,Expense,May
+Credit,5/23/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/27/2021,Green's,165.8,,-165.8,Groceries,Living Expenses,Expense,May
+Credit,5/28/2021,Ted's Trainers,128.8,,-128.8,Clothes,Discretionary,Expense,May
+Credit,5/28/2021,Home Decorator,235,,-235,Furnishings,Discretionary,Expense,May
+Credit,5/29/2021,Fashionistas,149.2,,-149.2,Clothes,Discretionary,Expense,May
+Credit,5/29/2021,Taxi Co.,27.200000000000003,,-27.2,Taxi,Transport,Expense,May
+Credit,5/31/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,May
+Credit,5/30/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Credit,5/31/2021,Ground,5,,-5,Coffee,Dining Out,Expense,May
+Checking,6/1/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Jun
+Credit,6/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Checking,6/3/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Jun
+Checking,6/3/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Jun
+Credit,6/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/6/2021,Green's,119,,-119,Groceries,Living Expenses,Expense,Jun
+Checking,6/9/2021,Elec. Co.,55,,-55,Gas/Electrics,Living Expenses,Expense,Jun
+Credit,6/9/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/11/2021,Fuel. Co,82.1,,-82.1,MV Fuel,Transport,Expense,Jun
+Credit,6/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/13/2021,Green's,140.2,,-140.2,Groceries,Living Expenses,Expense,Jun
+Credit,6/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/14/2021,Event Cinemas,44.9,,-44.9,Entertainment,Discretionary,Expense,Jun
+Credit,6/14/2021,Fashionistas,102.9,,-102.9,Clothes,Discretionary,Expense,Jun
+Credit,6/14/2021,Joe's Grill,56.9,,-56.9,Restaurant,Dining Out,Expense,Jun
+Credit,6/15/2021,Taxi Co.,33.1,,-33.1,Taxi,Transport,Expense,Jun
+Checking,6/16/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Jun
+Credit,6/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Checking,6/17/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Jun
+Credit,6/18/2021,Sam's Gifts,50.1,,-50.1,Gifts,Discretionary,Expense,Jun
+Credit,6/18/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Jun
+Credit,6/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/20/2021,Green's,234,,-234,Groceries,Living Expenses,Expense,Jun
+Credit,6/21/2021,Pizza Pomodoro,42.1,,-42.1,Restaurant,Dining Out,Expense,Jun
+Credit,6/22/2021,Golden Arches,17.099999999999998,,-17.1,Restaurant,Dining Out,Expense,Jun
+Checking,6/23/2021,Worldvision,55,,-55,Donation,Charity,Expense,Jun
+Credit,6/23/2021,Fuel. Co,67.9,,-67.9,MV Fuel,Transport,Expense,Jun
+Credit,6/23/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,6/27/2021,Green's,166.9,,-166.9,Groceries,Living Expenses,Expense,Jun
+Credit,6/28/2021,Ted's Trainers,129.9,,-129.9,Clothes,Discretionary,Expense,Jun
+Credit,6/28/2021,Ticketek,180.29999999999998,,-180.3,Entertainment,Discretionary,Expense,Jun
+Credit,6/29/2021,Fashionistas,150.1,,-150.1,Clothes,Discretionary,Expense,Jun
+Credit,6/29/2021,Taxi Co.,28.200000000000003,,-28.2,Taxi,Transport,Expense,Jun
+Credit,6/29/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Jun
+Credit,6/30/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jun
+Credit,7/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Checking,7/2/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Jul
+Credit,7/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Checking,7/5/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Jul
+Checking,7/5/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Jul
+Credit,7/5/2021,Fodary,15,,-15,Restaurant,Dining Out,Expense,Jul
+Credit,7/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/7/2021,Green's,180,,-180,Groceries,Living Expenses,Expense,Jul
+Checking,7/10/2021,Elec. Co.,56.1,,-56.1,Gas/Electrics,Living Expenses,Expense,Jul
+Credit,7/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/12/2021,Fuel. Co,83.1,,-83.1,MV Fuel,Transport,Expense,Jul
+Credit,7/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/14/2021,Green's,141.1,,-141.1,Groceries,Living Expenses,Expense,Jul
+Credit,7/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/15/2021,Event Cinemas,45.8,,-45.8,Entertainment,Discretionary,Expense,Jul
+Credit,7/15/2021,Fashionistas,103.80000000000001,,-103.8,Clothes,Discretionary,Expense,Jul
+Credit,7/15/2021,Joe's Grill,58,,-58,Restaurant,Dining Out,Expense,Jul
+Credit,7/16/2021,Taxi Co.,34.2,,-34.2,Taxi,Transport,Expense,Jul
+Checking,7/17/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Jul
+Credit,7/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Checking,7/18/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Jul
+Credit,7/19/2021,Sam's Gifts,51.1,,-51.1,Gifts,Discretionary,Expense,Jul
+Credit,7/19/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Jul
+Credit,7/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/21/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/21/2021,Green's,176,,-176,Groceries,Living Expenses,Expense,Jul
+Credit,7/22/2021,Pizza Pomodoro,43.1,,-43.1,Restaurant,Dining Out,Expense,Jul
+Credit,7/23/2021,Golden Arches,18.2,,-18.2,Restaurant,Dining Out,Expense,Jul
+Checking,7/24/2021,Worldvision,55,,-55,Donation,Charity,Expense,Jul
+Credit,7/24/2021,Fuel. Co,68.80000000000001,,-68.8,MV Fuel,Transport,Expense,Jul
+Credit,7/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/28/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,7/28/2021,Green's,193,,-193,Groceries,Living Expenses,Expense,Jul
+Credit,7/29/2021,Ted's Trainers,130.8,,-130.8,Clothes,Discretionary,Expense,Jul
+Credit,7/29/2021,Home Decorator,181.39999999999998,,-181.4,Furnishings,Discretionary,Expense,Jul
+Credit,7/30/2021,Fashionistas,151.2,,-151.2,Clothes,Discretionary,Expense,Jul
+Credit,7/30/2021,Taxi Co.,29.300000000000004,,-29.3,Taxi,Transport,Expense,Jul
+Credit,7/30/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Jul
+Credit,7/31/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Jul
+Credit,8/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Checking,8/2/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Aug
+Credit,8/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Checking,8/5/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Aug
+Checking,8/5/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Aug
+Credit,8/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/7/2021,Green's,137,,-137,Groceries,Living Expenses,Expense,Aug
+Checking,8/10/2021,Elec. Co.,57,,-57,Gas/Electrics,Living Expenses,Expense,Aug
+Credit,8/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/12/2021,Fuel. Co,84.19999999999999,,-84.2,MV Fuel,Transport,Expense,Aug
+Credit,8/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/14/2021,Green's,142.1,,-142.1,Groceries,Living Expenses,Expense,Aug
+Credit,8/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/15/2021,Event Cinemas,46.8,,-46.8,Entertainment,Discretionary,Expense,Aug
+Credit,8/15/2021,Fashionistas,104.70000000000002,,-104.7,Clothes,Discretionary,Expense,Aug
+Credit,8/15/2021,Joe's Grill,59.1,,-59.1,Restaurant,Dining Out,Expense,Aug
+Credit,8/16/2021,Taxi Co.,35.1,,-35.1,Taxi,Transport,Expense,Aug
+Checking,8/17/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Aug
+Credit,8/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Checking,8/18/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Aug
+Credit,8/19/2021,Sam's Gifts,52.1,,-52.1,Gifts,Discretionary,Expense,Aug
+Credit,8/19/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Aug
+Credit,8/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/21/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/21/2021,Green's,177,,-177,Groceries,Living Expenses,Expense,Aug
+Credit,8/22/2021,Pizza Pomodoro,44.2,,-44.2,Restaurant,Dining Out,Expense,Aug
+Credit,8/23/2021,Golden Arches,19.2,,-19.2,Restaurant,Dining Out,Expense,Aug
+Checking,8/24/2021,Worldvision,55,,-55,Donation,Charity,Expense,Aug
+Credit,8/24/2021,Fuel. Co,69.70000000000002,,-69.7,MV Fuel,Transport,Expense,Aug
+Credit,8/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/28/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,8/28/2021,Green's,117,,-117,Groceries,Living Expenses,Expense,Aug
+Credit,8/29/2021,Ted's Trainers,131.9,,-131.9,Clothes,Discretionary,Expense,Aug
+Credit,8/29/2021,Ticketek,182.39999999999998,,-182.4,Entertainment,Discretionary,Expense,Aug
+Credit,8/30/2021,Fashionistas,152.29999999999998,,-152.3,Clothes,Discretionary,Expense,Aug
+Credit,8/30/2021,Taxi Co.,30.300000000000004,,-30.3,Taxi,Transport,Expense,Aug
+Credit,8/30/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Aug
+Credit,8/31/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Aug
+Credit,9/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Checking,9/2/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Sep
+Credit,9/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Checking,9/5/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Sep
+Checking,9/5/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Sep
+Credit,9/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/5/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/7/2021,Green's,163.39999999999998,,-163.4,Groceries,Living Expenses,Expense,Sep
+Checking,9/10/2021,Elec. Co.,58.1,,-58.1,Gas/Electrics,Living Expenses,Expense,Sep
+Credit,9/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/12/2021,Fuel. Co,85.29999999999998,,-85.3,MV Fuel,Transport,Expense,Sep
+Credit,9/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/14/2021,Green's,143,,-143,Groceries,Living Expenses,Expense,Sep
+Credit,9/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/15/2021,Event Cinemas,47.8,,-47.8,Entertainment,Discretionary,Expense,Sep
+Credit,9/15/2021,Fashionistas,105.80000000000001,,-105.8,Clothes,Discretionary,Expense,Sep
+Credit,9/15/2021,Joe's Grill,60.1,,-60.1,Restaurant,Dining Out,Expense,Sep
+Credit,9/16/2021,Taxi Co.,36.2,,-36.2,Taxi,Transport,Expense,Sep
+Checking,9/17/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Sep
+Credit,9/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Checking,9/18/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Sep
+Credit,9/19/2021,Sam's Gifts,53,,-53,Gifts,Discretionary,Expense,Sep
+Credit,9/19/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Sep
+Credit,9/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/21/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/21/2021,Green's,177.9,,-177.9,Groceries,Living Expenses,Expense,Sep
+Credit,9/22/2021,Pizza Pomodoro,45.300000000000004,,-45.3,Restaurant,Dining Out,Expense,Sep
+Credit,9/23/2021,Golden Arches,20.099999999999998,,-20.1,Restaurant,Dining Out,Expense,Sep
+Checking,9/24/2021,Worldvision,55,,-55,Donation,Charity,Expense,Sep
+Credit,9/24/2021,Fuel. Co,70.60000000000002,,-70.6,MV Fuel,Transport,Expense,Sep
+Credit,9/24/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/28/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Sep
+Credit,9/28/2021,Green's,223,,-223,Groceries,Living Expenses,Expense,Sep
+Credit,9/29/2021,Ted's Trainers,132.9,,-132.9,Clothes,Discretionary,Expense,Sep
+Credit,9/29/2021,Global Fashion,175,,-175,Clothes,Discretionary,Expense,Sep
+Credit,9/30/2021,Fashionistas,153.39999999999998,,-153.4,Clothes,Discretionary,Expense,Sep
+Credit,9/30/2021,Taxi Co.,31.200000000000003,,-31.2,Taxi,Transport,Expense,Sep
+Credit,9/30/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Sep
+Credit,10/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Checking,10/3/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Oct
+Credit,10/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Checking,10/6/2021,Estate Mgt.,900,,-900,Rent,Living Expenses,Expense,Oct
+Checking,10/6/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Oct
+Credit,10/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/8/2021,Green's,105,,-105,Groceries,Living Expenses,Expense,Oct
+Checking,10/11/2021,Elec. Co.,59,,-59,Gas/Electrics,Living Expenses,Expense,Oct
+Credit,10/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/13/2021,Fuel. Co,86.39999999999998,,-86.4,MV Fuel,Transport,Expense,Oct
+Credit,10/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/15/2021,Green's,143.9,,-143.9,Groceries,Living Expenses,Expense,Oct
+Credit,10/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/16/2021,Event Cinemas,48.8,,-48.8,Entertainment,Discretionary,Expense,Oct
+Credit,10/16/2021,Fashionistas,106.70000000000002,,-106.7,Clothes,Discretionary,Expense,Oct
+Credit,10/16/2021,Joe's Grill,61.1,,-61.1,Restaurant,Dining Out,Expense,Oct
+Credit,10/17/2021,Taxi Co.,37.2,,-37.2,Taxi,Transport,Expense,Oct
+Checking,10/18/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Oct
+Credit,10/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Checking,10/19/2021,Village Medical,75,,-75,Doctor,Medical,Expense,Oct
+Checking,10/19/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Oct
+Credit,10/20/2021,Sam's Gifts,54.1,,-54.1,Gifts,Discretionary,Expense,Oct
+Credit,10/20/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Oct
+Credit,10/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/21/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/22/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/22/2021,Green's,178.9,,-178.9,Groceries,Living Expenses,Expense,Oct
+Credit,10/23/2021,Pizza Pomodoro,46.2,,-46.2,Restaurant,Dining Out,Expense,Oct
+Credit,10/24/2021,Golden Arches,21.099999999999998,,-21.1,Restaurant,Dining Out,Expense,Oct
+Checking,10/25/2021,Worldvision,55,,-55,Donation,Charity,Expense,Oct
+Credit,10/25/2021,Fuel. Co,71.50000000000003,,-71.5,MV Fuel,Transport,Expense,Oct
+Credit,10/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/28/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/29/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Oct
+Credit,10/29/2021,Green's,189,,-189,Groceries,Living Expenses,Expense,Oct
+Credit,10/30/2021,Ted's Trainers,133.8,,-133.8,Clothes,Discretionary,Expense,Oct
+Credit,10/30/2021,Ticketek,184.39999999999998,,-184.4,Entertainment,Discretionary,Expense,Oct
+Credit,10/31/2021,Fashionistas,154.49999999999997,,-154.5,Clothes,Discretionary,Expense,Oct
+Credit,10/31/2021,Taxi Co.,32.1,,-32.1,Taxi,Transport,Expense,Oct
+Credit,10/31/2021,Foodary,15,,-15,Restaurant,Dining Out,Expense,Oct
+Credit,11/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/3/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Checking,11/3/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Nov
+Credit,11/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Checking,11/6/2021,Estate Mgt.,927,,-927,Rent,Living Expenses,Expense,Nov
+Checking,11/6/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Nov
+Credit,11/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/6/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/8/2021,Green's,160,,-160,Groceries,Living Expenses,Expense,Nov
+Checking,11/11/2021,Elec. Co.,49,,-49,Gas/Electrics,Living Expenses,Expense,Nov
+Credit,11/11/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/12/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/13/2021,Fuel. Co,94,,-94,MV Fuel,Transport,Expense,Nov
+Credit,11/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/15/2021,Green's,133,,-133,Groceries,Living Expenses,Expense,Nov
+Credit,11/15/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/16/2021,Event Cinemas,36,,-36,Entertainment,Discretionary,Expense,Nov
+Credit,11/16/2021,Fashionistas,74,,-74,Clothes,Discretionary,Expense,Nov
+Credit,11/16/2021,Joe's Grill,72,,-72,Restaurant,Dining Out,Expense,Nov
+Credit,11/17/2021,Taxi Co.,28,,-28,Taxi,Transport,Expense,Nov
+Checking,11/18/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Nov
+Credit,11/18/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Checking,11/19/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Nov
+Credit,11/20/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Nov
+Credit,11/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/21/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/22/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/22/2021,Green's,214,,-214,Groceries,Living Expenses,Expense,Nov
+Credit,11/23/2021,Pizza Pomodoro,59,,-59,Restaurant,Dining Out,Expense,Nov
+Credit,11/24/2021,Golden Arches,13,,-13,Restaurant,Dining Out,Expense,Nov
+Checking,11/25/2021,Worldvision,55,,-55,Donation,Charity,Expense,Nov
+Credit,11/25/2021,Fuel. Co,69,,-69,MV Fuel,Transport,Expense,Nov
+Credit,11/25/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/28/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/29/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Nov
+Credit,11/29/2021,Green's,210,,-210,Groceries,Living Expenses,Expense,Nov
+Credit,11/30/2021,Fashionistas,239,,-239,Clothes,Discretionary,Expense,Nov
+Credit,11/30/2021,Taxi Co.,40,,-40,Taxi,Transport,Expense,Nov
+Credit,11/30/2021,Foodary,30,,-30,Restaurant,Dining Out,Expense,Nov
+Credit,12/1/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/2/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Checking,12/3/2021,ACME Pty Ltd,,4000,4000,Salary,Salary,Income,Dec
+Credit,12/4/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Checking,12/5/2021,Estate Mgt.,927,,-927,Rent,Living Expenses,Expense,Dec
+Checking,12/6/2021,Finance Co.,150,,-150,Entertainment,Transport,Expense,Dec
+Credit,12/7/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/8/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/9/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/10/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/11/2021,Green's,160,,-160,Groceries,Living Expenses,Expense,Dec
+Checking,12/12/2021,Elec. Co.,49,,-49,Gas/Electrics,Living Expenses,Expense,Dec
+Credit,12/13/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/14/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/15/2021,Fuel. Co,94,,-94,MV Fuel,Transport,Expense,Dec
+Credit,12/16/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/17/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/18/2021,Green's,133,,-133,Groceries,Living Expenses,Expense,Dec
+Credit,12/19/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/20/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/21/2021,Event Cinemas,36,,-36,Entertainment,Discretionary,Expense,Dec
+Credit,12/22/2021,Fashionistas,74,,-74,Clothes,Discretionary,Expense,Dec
+Credit,12/23/2021,Joe's Grill,72,,-72,Restaurant,Dining Out,Expense,Dec
+Credit,12/24/2021,Taxi Co.,28,,-28,Taxi,Transport,Expense,Dec
+Checking,12/25/2021,Muscle Beach,30,,-30,Gym,Discretionary,Expense,Dec
+Credit,12/26/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/27/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Checking,12/28/2021,Phone Co.,40,,-40,Phone,Living Expenses,Expense,Dec
+Credit,12/29/2021,Streaming Co.,35,,-35,Entertainment,Discretionary,Expense,Dec
+Credit,12/30/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
+Credit,12/31/2021,Ground,5,,-5,Coffee,Dining Out,Expense,Dec
